@@ -24,7 +24,7 @@ We are providing XXX DApp's information on SGY. After completion, you can see th
 
 Note:
 - 1636 is the PR number, as in: https://github.com/consenlabs/token-profile/pull/1636 
-This number is the key to verify yourself as the rightful editor of the information to imToken.
+This number is the key to verify yourself as the rightful editor of the information to SGY.
 - The token information can only be changed after the official verification
 
 #### Logo Design Requirements
