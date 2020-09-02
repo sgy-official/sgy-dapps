@@ -1,0 +1,15 @@
+{
+    "dapps":[
+        "appkey": "sgyscan",
+        "appname": "SGYScan.io",
+        "author": "scan tech",
+        "payment_wallet": "",
+        "url": "https://www.sgyscan.io/",
+        "email": "",
+        "links":{},
+        "overview":{
+            "cn": "",
+            "en": ""
+        }
+    ]
+}
