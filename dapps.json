@@ -1,15 +1,15 @@
-{
-    "dapps":[
-        "appkey": "sgyscan",
-        "appname": "SGYScan.io",
-        "author": "scan tech",
-        "payment_wallet": "",
+[
+    {
+        "app_key": "sgyscan",
+        "app_name": "SGYScan.io",
+        "author": "ScanTech",
+        "wallet_address": "rPCQjGoB25vGVnTQpNB9cMrV1tLyAp3SP",
         "url": "https://www.sgyscan.io/",
         "email": "",
-        "links":{},
-        "overview":{
-            "cn": "",
-            "en": ""
+        "links": {},
+        "overview": {
+            "en": "",
+            "cn": "SGYSCAN.IO是Singularity区块链数据可视化平台，Singularity是基于区块链的去中心化链上资产交换协议。"
         }
-    ]
-}
+    }
+]

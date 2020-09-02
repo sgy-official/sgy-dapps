@@ -1,0 +1,12 @@
+{
+  "name": "sgy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./build/test.js"
+  },
+  "dependencies": {
+    "image-type": "^4.1.0",
+    "read-chunk": "^3.2.0",
+    "web3": "^1.2.11"
+  }
+}
