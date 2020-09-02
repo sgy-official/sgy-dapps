@@ -1,1 +1,19 @@
+{
+	"app_key": ".example"
+	"app_name": "example"
+	"author": "example"
+	"wallet_address": "r4SLAaRXMTysLb9UPUFk7Bq6sHdDLqqcgo",
+	"url": "https://...",
+	"email": "",
+	"links": {
+		"blog": "",
+		"twitter": "",
+		"telegram": "",
+		"github": "https://github.com/projectchicago/gastoken"
+	},
+	"overview":{
+		"en": "",
+		"cn": ""
+	}
+}
 
