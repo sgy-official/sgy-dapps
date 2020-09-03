@@ -1,10 +1,9 @@
-[![Build Status][ci-badge]][ci-url]
+# SGY DApps Profile Submission Guideline
 
+[![Build Status][ci-badge]][ci-url]
 
 [ci-badge]: https://github.com/openethereum/openethereum/workflows/Build%20and%20Test%20Suite/badge.svg
 [ci-url]: https://github.com/openethereum/openethereum/actions
-
-# SGY DApps Profile Submission Guideline
 
 ## Requirements
 ### Information Preparation
