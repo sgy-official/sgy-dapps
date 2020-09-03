@@ -28,7 +28,7 @@ In order to ensure the authenticity of the information submitted, please publish
 We are providing XXX DApp's information on SGY. After completion, you can see the logo and full information inside SGY DApps List.
 
 Note:
-- 1636 is the PR number, as in: https://github.com/consenlabs/token-profile/pull/1636 
+- 3 is the PR number, as in: https://github.com/sgy-official/sgy-dapps/pull/3
 This number is the key to verify yourself as the rightful editor of the information to SGY.
 - The token information can only be changed after the official verification
 
