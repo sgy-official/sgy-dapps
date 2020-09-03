@@ -17,7 +17,3 @@ script:
   - npm run build
 
 after_script:
-  - git config user.name "${U_NAME}"
-  - git config user.email "${U_EMAIL}"
-  - git commit dapps.json -m "Travis Build"
-  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
