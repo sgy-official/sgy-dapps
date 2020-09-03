@@ -3,7 +3,7 @@
 [![Build Status][ci-badge]][ci-url]
 
 [ci-badge]: https://github.com/openethereum/openethereum/workflows/Build%20and%20Test%20Suite/badge.svg
-[ci-url]: https://github.com/openethereum/openethereum/actions
+[ci-url]: https://github.com/sgy-official/sgy-dapps/actions
 
 ## Requirements
 ### Information Preparation
