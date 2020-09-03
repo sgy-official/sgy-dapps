@@ -1,3 +1,5 @@
+[![Build Status][ci-badge]][ci-url]
+
 # SGY DApps Profile Submission Guideline
 
 ## Requirements
