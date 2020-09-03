@@ -1,5 +1,10 @@
 # SGY DApps Profile Submission Guideline
 
+[![Build Status][ci-badge]][ci-url]
+
+[ci-badge]: https://github.com/openethereum/openethereum/workflows/Build%20and%20Test%20Suite/badge.svg
+[ci-url]: https://github.com/openethereum/openethereum/actions
+
 ## Requirements
 ### Information Preparation
 #### Complete project information and related blockchain media reports are appreciated, including but not limited to the following items:
