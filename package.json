@@ -2,7 +2,7 @@
   "name": "sgy",
   "version": "1.0.0",
   "scripts": {
-    "start": "node ./build/test.js"
+    "build": "node ./build/test.js"
   },
   "dependencies": {
     "image-type": "^4.1.0",

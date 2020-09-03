@@ -2,8 +2,22 @@ language: node_js
 sudo: enabled
 
 node_js:
-  - "lts/carbon"
+  - "12"
 
 cache:
   directories:
     - "node_modules"
+
+install:
+  - npm install
+
+before_script:
+
+script:
+  - npm run build
+
+after_script:
+  - git config user.name "${U_NAME}"
+  - git config user.email "${U_EMAIL}"
+  - git commit dapps.json -m "Travis Build"
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
