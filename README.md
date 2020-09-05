@@ -37,8 +37,6 @@ This number is the key to verify yourself as the rightful editor of the informat
 - Transparent background PNG format
 - Brand logo horizontally and vertically centered, as shown below.
 
-![example](./logo.png)
-
 
 ## How it works
 *We recommend that you complete the procedures with your developers*
