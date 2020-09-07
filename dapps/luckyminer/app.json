@@ -1,0 +1,14 @@
+{
+    "app_key": "luckyminer",
+    "app_name": "Lucky Miner",
+    "author": "LuckyMiner",
+    "wallet_address": "r9AWVrP5GtnabcjWWLmAwnyam3U3TZvj8c",
+    "url": "https://luckyminer.one/sgy/main",
+    "email": "admin@mail.luckyminer.one",
+    "links": {
+    },
+    "overview":{
+        "en": "Lucky Miner is a blockchain Game.The yield on the diamond is 50 times earnings",
+        "cn": "幸运矿工，简单有趣的挖矿游戏，挖到钻石50倍返奖。"
+    }
+}
